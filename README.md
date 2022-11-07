@@ -179,7 +179,7 @@ print ('\nTotal : ', total)
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/115714443/200329417-13f2a908-baa7-4c1e-9fea-6d98f5eb74eb.png)
 
-### Selesaii,Selamat mencoba. *Terima kasi*
+### Selesaii,Selamat mencoba. *Terimakasih*
 
 
 
