@@ -154,8 +154,8 @@ bulan berjalan usahanya.
 - Berikut untuk codinganya
 
   Kalian masukan code dibawah ini!
-  ```
-  a = 100000000
+
+ ``` a = 100000000
 for x in range (1, 9):
     if(x>=1 and x<=2):
          b=a*0
