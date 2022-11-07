@@ -77,8 +77,8 @@ else:
 - Berikut untuk codinganya
 
   Kalian bisa memasukan code dibawah ini!
-  ```
-  print("*******latihan1*******")
+  
+ ``` print("*******latihan1*******")
 
 print ("masukkan nilai N: 5 ")
 import random
@@ -115,8 +115,8 @@ Masukkan angka 0 untuk berhenti.
 - Berikut untuk codinganya
 
   Kalian masukan code dibawah ini!
-```
-max=0
+
+``` max=0
 while True:
     a=int(input('Masukkan Bilangan = '))
     if max < a:
