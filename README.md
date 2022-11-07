@@ -30,5 +30,18 @@
 
 ![flowchart latihan1](https://user-images.githubusercontent.com/115714443/200234287-2f8b3741-012e-4786-bb26-952b2a01b764.jpg)
   
-  
-  
+ - Berikut untuk codinganya
+   Kalian bisa memasukan code dibawah ini
+   
+   ```
+   e = int(input('Masukkan nilai e: '))
+f = int(input('Masukkan nilai f: '))
+g = int(input('Masukkan nilai g: '))
+
+if e > f and e > g:
+  print('e yang terbesar')
+elif f > e and f > g:
+  print('f yang terbesar')
+else:
+  print('g yang terbesar')
+  ```
