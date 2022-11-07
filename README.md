@@ -2,7 +2,7 @@
 
 # PENGGUNAAN PYCHARM
 
--  ### *Disini saya akan menjelaskan dahulu cara menggunakan pychram,pembuatan filenya dan lainya*
+-  ### *Disini saya akan menjelaskan dahulu cara menggunakan pychram,karena saya akan menggunakan apk Pycharm*
 - pertama yang pasti buka pycharm
 - kemudian pilih menu file -  new project,seperti gambar dibawah ini
 
