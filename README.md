@@ -33,8 +33,7 @@
  - Berikut untuk codinganya
    Kalian bisa memasukan code dibawah ini
    
-   ```
-   e = int(input('Masukkan nilai e: '))
+```   e = int(input('Masukkan nilai e: '))
 f = int(input('Masukkan nilai f: '))
 g = int(input('Masukkan nilai g: '))
 
@@ -43,6 +42,4 @@ if e > f and e > g:
 elif f > e and f > g:
   print('f yang terbesar')
 else:
-  print('g yang terbesar')
-  
-  ```
+  print('g yang terbesar') ```
