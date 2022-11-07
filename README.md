@@ -36,7 +36,7 @@
  - Sebelumnya buat file dulu yaa,sudah saya jelaskan di atas langkah- langkahnya
  - Berikut untuk codinganya
 
-   Kalian bisa memasukan code dibawah ini
+   Kalian bisa memasukan code dibawah ini!
    
 ```   e = int(input('Masukkan nilai e: '))
 f = int(input('Masukkan nilai f: '))
