@@ -42,4 +42,13 @@ if e > f and e > g:
 elif f > e and f > g:
   print('f yang terbesar')
 else:
-  print('g yang terbesar') ```
+  print('g yang terbesar') 
+ 
+- setelah sudah memasukkan code diatas,kemudian run
+- Maka hasilnya akan seperti gambar dibawah ini
+
+![Screenshot (37)](https://user-images.githubusercontent.com/115714443/200238266-7eb667a2-d505-4c3f-9b6f-f04119c63b0a.png)
+
+## Tugas Pratikum 3
+
+
