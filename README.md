@@ -13,6 +13,9 @@
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/115714443/200236375-50c51382-5988-4053-a166-19430024a19d.png)
 
+![Screenshot (43)](https://user-images.githubusercontent.com/115714443/200236965-1108f357-a6bd-4baa-88af-8d5c90cdb358.png)
+### *ini contoh file kosong yanga akan kita isi codingan nantinya*
+
 - langkah diatas akan kita gunakan terus untuk menyelesaiakan persoalan-persoalan dibawah ini.
 
 ## Tugas Pratikum 2
