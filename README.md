@@ -23,7 +23,8 @@
 
 #### alur algoritma 
 
-- program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
+- soal:
+  program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
   tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
   
 - flowchart
@@ -43,6 +44,7 @@ elif f > e and f > g:
   print('f yang terbesar')
 else:
   print('g yang terbesar') 
+  ```
  
 - setelah sudah memasukkan code diatas,kemudian run
 - Maka hasilnya akan seperti gambar dibawah ini
