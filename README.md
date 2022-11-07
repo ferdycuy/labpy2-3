@@ -4,12 +4,12 @@
 
 -  ### *Disini saya akan menjelaskan dahulu cara menggunakan pychram,pembuatan filenya dan lainya*
 - pertama yang pasti buka pycharm
-- kemudian pilih menu new project,seperti gambar dibawah ini
+- kemudian pilih menu file -  new project,seperti gambar dibawah ini
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/115714443/200235931-6a59b232-85f8-48f3-97ca-947a2a333c7f.png)
 
 - kemudian Buat 2 buah folder,karena untuk membedakan pratikum2 dan pratikum3
-- lalu buat klik menu new file kemudian pilih file python,sepert gambar dibawah ini
+- lalu buat klik menu file - new file kemudian pilih file python,sepert gambar dibawah ini
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/115714443/200236375-50c51382-5988-4053-a166-19430024a19d.png)
 
